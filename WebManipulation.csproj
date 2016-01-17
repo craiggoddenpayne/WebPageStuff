@@ -71,12 +71,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DisplayableForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="DisplayableForm.Designer.cs">
-      <DependentUpon>DisplayableForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="IWebPageTimingAnalytics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -84,9 +78,6 @@
     <Compile Include="ResourceTimingResult.cs" />
     <Compile Include="StreamExtensions.cs" />
     <Compile Include="WebPageTimingAnalytics.cs" />
-    <EmbeddedResource Include="DisplayableForm.resx">
-      <DependentUpon>DisplayableForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
