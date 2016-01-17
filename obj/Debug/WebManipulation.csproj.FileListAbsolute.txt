@@ -1,0 +1,5 @@
+c:\development\WebManipulation\bin\Debug\WebManipulation.exe.config
+c:\development\WebManipulation\obj\Debug\WebManipulation.csprojResolveAssemblyReference.cache
+c:\development\WebManipulation\obj\Debug\WebManipulation.Form1.resources
+c:\development\WebManipulation\obj\Debug\WebManipulation.Properties.Resources.resources
+c:\development\WebManipulation\obj\Debug\WebManipulation.csproj.GenerateResource.Cache
